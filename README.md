@@ -14,3 +14,9 @@ Our dataset was found on https://catalog.data.gov/dataset which is a list of man
 Some of the data that the set includes the name, the class, the mass, the year it fell, and the latitude and lonngitude of where it fell.
 
 ## Question #1: Which regions of the world have the most meteorite landings?
+
+
+
+
+## Analysis and Results
+We found one issue with the data set that we analyzed. Less data has been collected or the data is less complete for the more recent years. This is causing a dip in recorded data after the mid 2010s. 
