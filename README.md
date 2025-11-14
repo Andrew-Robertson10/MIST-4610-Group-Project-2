@@ -17,6 +17,7 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 
 ## Question #2: How has the number of documented meteorite landings changed over time, and how will this number likely change in the future?
 
+## Question #3: Which classes of meteorites are the most common? Which types of meteorites are the heaviest?
 
 ## Manipulations
 We manipulated the data in the forecast model to forecast starting at 2009 since as we mention later on in analysis, recent data is incomplete.
