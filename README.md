@@ -27,6 +27,7 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 
 ## Question #3: Which classes of meteorites are the most common? Which types of meteorites are the heaviest? Are heavier or lighter meteorites more common?
 The visualizations created for this data are included in the following links because there are too many rows to include in pictures.
+
 [Table: Class Frequency](https://drive.google.com/file/d/1FDUKMRemxaiy9LFgGT54xDAULE8KMA4l/view?usp=sharing)
 
 [Table: Median Class Mass Largest to Smallest](https://drive.google.com/file/d/1VfPwiMtnP7GGCCU2ByREHhpLtbjwacfv/view?usp=sharing)
