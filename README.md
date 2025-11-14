@@ -21,6 +21,9 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 <img width="924" height="539" alt="Image" src="https://github.com/user-attachments/assets/31f0a76a-5098-48b7-8fba-300a82914c7b" />
 
 ## Question #2: How has the number of documented meteorite landings changed over time, and how will this number likely change in the future?
+<img width="1435" height="711" alt="Image" src="https://github.com/user-attachments/assets/9f627034-d1da-4850-a321-92acb074c37a" />
+<img width="1232" height="708" alt="Image" src="https://github.com/user-attachments/assets/0919955b-a92d-417a-8272-0603ea85b140" />
+<img width="1435" height="707" alt="Image" src="https://github.com/user-attachments/assets/765c843b-cfca-4200-a110-1eb5e57cb3fa" />
 
 ## Question #3: Which classes of meteorites are the most common? Which types of meteorites are the heaviest? Are heavier or lighter meteorites more common?
 
