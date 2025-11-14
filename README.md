@@ -26,6 +26,7 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 <img width="1435" height="707" alt="Image" src="https://github.com/user-attachments/assets/765c843b-cfca-4200-a110-1eb5e57cb3fa" />
 
 ## Question #3: Which classes of meteorites are the most common? Which types of meteorites are the heaviest? Are heavier or lighter meteorites more common?
+<img width="253" height="11455" alt="Image" src="https://github.com/user-attachments/assets/e4a4b79c-9615-49ac-9391-30180b4c0bbf" />
 
 ## Manipulations
 We manipulated the data in the forecast model to forecast starting at 2009 since as we mention later on in the analysis, recent data is incomplete. We also filtered out very early data from before the 20th century, since efforts to discover meteorites did not exist back then and the number of meteorites found for each year during these time periods is either zero or in the single digits. Manipulating the data in this fashion allowed us to clean up the visualizations and better predict the future.
