@@ -17,6 +17,8 @@ Some of the data that the set includes the name, the class, the mass, the year i
 
 
 
+## Manipulations
+We manipulated the data in the forecast model to forecast starting at 2009 since as we mention later on in analysis, recent data is incomplete.
 
 ## Analysis and Results
 We found one issue with the data set that we analyzed. Less data has been collected or the data is less complete for the more recent years. This is causing a dip in recorded data after the mid 2010s. 
