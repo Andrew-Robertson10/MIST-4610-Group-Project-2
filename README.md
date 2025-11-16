@@ -21,7 +21,7 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 <img width="924" height="539" alt="Image" src="https://github.com/user-attachments/assets/31f0a76a-5098-48b7-8fba-300a82914c7b" />
 
 - This density map shows that the majority of meteorites are found in Antarctica, followed by southeast Asia, Africa, and western Australia.
-- Meteorites are more likely to be found in deserts (both hot and cold deserts) due to their unique climate that does not cause much erosion or change in the surface. Meteorites fall here and sit for many years before they are found, and nothing much has happened to the meteorite in this time. On the other hand, places with more precipitation or unpredictable climates experience more erosion and changes in the surface. Meteorites are harder to find in these regions because they erode or get covered up, leading to fewer meteorite discoveries.
+- Meteorites are more likely to be found in deserts (both hot and cold deserts) due to their unique climate that does not cause much erosion or change in the surface. Meteorites fall here and sit for many years before they are found, and nothing much has happened to the meteorite in this time. On the other hand, places with more precipitation or unpredictable climates experience more erosion and changes in the surface. Meteorites are harder to find in these regions because they erode or get covered up, leading to fewer meteorite discoveries. (Case Western Reserve University, n.d.)
 - Antartica is especially significant because of the East Antarctic Icesheet. When the icesheet moves further into the surface and comes into contact with mountains, it pushes old deep ice to the surface and exposes centuries-old meteorites.
 
 ## Question #2: How has the number of documented meteorite landings changed over time, and how will this number likely change in the future?
@@ -29,7 +29,7 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 <img width="1232" height="708" alt="Image" src="https://github.com/user-attachments/assets/0919955b-a92d-417a-8272-0603ea85b140" />
 <img width="1435" height="707" alt="Image" src="https://github.com/user-attachments/assets/765c843b-cfca-4200-a110-1eb5e57cb3fa" />
 
-- This data shows that meteorite discoveries began an upward trend in the 1970s. This reflects the start of large-scale systematic search programs, including Antarctic expeditions by Japan (JARE) in 1969 and the U.S. ANSMET program beginning in 1976, which made meteorite collection far more organized and efficient.
+- This data shows that meteorite discoveries began an upward trend in the 1970s. This reflects the start of large-scale systematic search programs, including Antarctic expeditions by Japan (JARE) in 1969 (National Institute of Polar Research, n.d.) and the U.S. ANSMET program beginning in 1976 (Satterwhite et al., 2016) , which made meteorite collection far more organized and efficient.
 - Improvements in classification methods, global scientific collaboration, and expanding international databases also drove rapid growth in the number of documented meteorites.
 - The drop after the early 2010s is not a real decline in meteorite falls; it reflects delays in laboratory classification, publication lag in the Meteoritical Bulletin, and reduced field expeditions in key collection regions like Antarctica.
 
