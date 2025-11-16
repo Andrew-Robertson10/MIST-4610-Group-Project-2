@@ -41,7 +41,9 @@ The visualizations created for this data are included in the following links bec
 [Table: Median Class Mass Largest to Smallest](https://drive.google.com/file/d/1VfPwiMtnP7GGCCU2ByREHhpLtbjwacfv/view?usp=sharing)
 
 - Iron meteorites are the heaviest but appear less frequently.
-- The most common meteorites are small and belong to non-metallic classes.
+- The most common meteorites are small and belong to non-metallic classes (L and H classes).
+- Carbonaceous chondrites (CM2, CO3, CV3, CK4) also have low masses because they are fragile and break up easily.
+- Martian meteorites (shergottites, nakhlites, chassignites) show up with frequencies in the teens and median masses generally well under 200 g. 
 
 ## Manipulations
 We excluded the last five years of data in the prediction model because meteorite records have a significant publication delay, which artificially depresses recent counts. After removing these incomplete years, Tableau is able to detect the underlying long-term growth trend in meteorite discoveries, resulting in a more realistic upward forecast.
