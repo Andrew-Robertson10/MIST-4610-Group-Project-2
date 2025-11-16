@@ -50,3 +50,12 @@ We also filtered out very early data from before the 20th century, since efforts
 
 ## Analysis and Results
 We found one issue with the data set that we analyzed. Less data has been collected or the data is less complete for the more recent years. This is causing a dip in recorded data after the mid-2010s that is not necessarily representative of the number of meteorites that actually fell during these years. 
+
+## Works Cited
+
+Case Western Reserve University. (n.d.). FAQs – ANSMET, The Antarctic Search for Meteorites. CASLabs. https://caslabs.case.edu/ansmet/faqs/
+
+National Institute of Polar Research. (2025). History of Antarctic meteorite exploration. Antarctic Meteorite Research Center. https://yamato.nipr.ac.jp/english/exploration/exploration3/
+
+Satterwhite, C. E., Funk, R. C., Righter, K., & Harrington, R. H. (2016). 40 years of processing pieces of space (NASA Technical Report No. JSC-CN-36539). NASA. https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160007502.pdf
+
