@@ -29,6 +29,10 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 <img width="1232" height="708" alt="Image" src="https://github.com/user-attachments/assets/0919955b-a92d-417a-8272-0603ea85b140" />
 <img width="1435" height="707" alt="Image" src="https://github.com/user-attachments/assets/765c843b-cfca-4200-a110-1eb5e57cb3fa" />
 
+- This data shows that meteorite discoveries began an upward trend in the 1970s. This reflects the start of large-scale systematic search programs, including Antarctic expeditions by Japan (JARE) in 1969 and the U.S. ANSMET program beginning in 1976, which made meteorite collection far more organized and efficient.
+- Improvements in classification methods, global scientific collaboration, and expanding international databases also drove rapid growth in the number of documented meteorites.
+- The drop after the early 2010s is not a real decline in meteorite falls; it reflects delays in laboratory classification, publication lag in the Meteoritical Bulletin, and reduced field expeditions in key collection regions like Antarctica.
+
 ## Question #3: Which classes of meteorites are the most common? Which types of meteorites are the heaviest? Are heavier or lighter meteorites more common?
 The visualizations created for this data are included in the following links because the number of different classes creates too many rows to be able to include these visualizations as screenshots.
 
@@ -36,8 +40,13 @@ The visualizations created for this data are included in the following links bec
 
 [Table: Median Class Mass Largest to Smallest](https://drive.google.com/file/d/1VfPwiMtnP7GGCCU2ByREHhpLtbjwacfv/view?usp=sharing)
 
+- Iron meteorites are the heaviest but appear less frequently.
+- The most common meteorites are small and belong to non-metallic classes.
+
 ## Manipulations
-We manipulated the data in the forecast model to forecast starting at 2009 since as we mention later on in the analysis, recent data is incomplete. We also filtered out very early data from before the 20th century, since efforts to discover meteorites did not exist back then and the number of meteorites found for each year during these time periods is either zero or in the single digits. Manipulating the data in this fashion allowed us to clean up the visualizations and better predict the future.
+We excluded the last five years of data in the prediction model because meteorite records have a significant publication delay, which artificially depresses recent counts. After removing these incomplete years, Tableau is able to detect the underlying long-term growth trend in meteorite discoveries, resulting in a more realistic upward forecast.
+
+We also filtered out very early data from before the 20th century, since efforts to discover meteorites did not exist back then and the number of meteorites found for each year during these time periods is either zero or in the single digits. Manipulating the data in this fashion allowed us to clean up the visualizations and better predict the future.
 
 ## Analysis and Results
 We found one issue with the data set that we analyzed. Less data has been collected or the data is less complete for the more recent years. This is causing a dip in recorded data after the mid-2010s that is not necessarily representative of the number of meteorites that actually fell during these years. 
