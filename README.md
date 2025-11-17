@@ -11,7 +11,7 @@
 - Aakash Parmar [@aakashbparmar](https://github.com/aakashbparmar)
 
 Our dataset was found on https://catalog.data.gov/dataset which is a list of many different data set types. Our dataset contains information on all known meteorite landings worldwide. The data were collected by The Meteoritical Society, in association with NASA.
-Some of the data that the set includes is the name, the class, the mass, the year it fell, and the latitude and longitude of where it fell for each meteorite.
+Some of the data that the set includes is the name, the class, the mass, the year it was discovered, and the latitude and longitude of where it fell for each meteorite.
 
 ## Question #1: Which regions of the world have the most discovered meteorite landings?
 <img width="1433" height="666" alt="Image" src="https://github.com/user-attachments/assets/380100fc-6e11-4978-944b-c35b5872c72d" />
