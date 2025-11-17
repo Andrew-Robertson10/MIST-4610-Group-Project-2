@@ -71,7 +71,7 @@ Together, the geographic, temporal, and compositional analyses show that meteori
 
 Case Western Reserve University. (n.d.). FAQs – ANSMET, The Antarctic Search for Meteorites. CASLabs. https://caslabs.case.edu/ansmet/faqs/
 
-National Institute of Polar Research. (2025). History of Antarctic meteorite exploration. Antarctic Meteorite Research Center. https://yamato.nipr.ac.jp/english/exploration/exploration3/
+National Institute of Polar Research. (n.d.). History of Antarctic meteorite exploration. Antarctic Meteorite Research Center. https://yamato.nipr.ac.jp/english/exploration/exploration3/
 
 Satterwhite, C. E., Funk, R. C., Righter, K., & Harrington, R. H. (2016). 40 years of processing pieces of space (NASA Technical Report No. JSC-CN-36539). NASA. https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160007502.pdf
 
