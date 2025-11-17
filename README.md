@@ -65,7 +65,7 @@ We also filtered out very early data from before the 20th century, since efforts
 - Relationship Between Mass and Frequency: A clear inverse relationship exists between mass and frequency. The most common meteorite classes have low median masses, while the heaviest meteorite types are rare. This pattern reinforces the role of physical survivability and detection bias. Large iron meteorites retain mass through atmospheric entry, whereas smaller stony meteorites break into many fragments, increasing their frequency but reducing individual mass.
 
 Overall Findings:
-Together, the geographic, time, and composition analyses show that meteorite discovery is shaped largely by environmental preservation, targeted scientific expeditions, and the material properties of meteorites themselves. After cleaning and filtering the dataset, our visualizations provide a clearer representation of these trends and allow for a more accurate forecast of future discovery patterns. 
+Together, the geographic, time, and composition analyses show that meteorite discovery is shaped largely by environmental preservation, targeted scientific expeditions, and the material properties of the meteorites. After cleaning and filtering the dataset, our visualizations provide a clearer representation of these trends and allow for a more accurate forecast of future discovery patterns. 
 
 ## Works Cited
 
