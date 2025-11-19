@@ -14,6 +14,18 @@ Our dataset was found on https://catalog.data.gov/dataset which is a list of man
 Some of the data that the set includes is the name, the class, the mass, the year it was discovered, and the latitude and longitude of where it fell for each meteorite.
 
 ## Question #1: Which regions of the world have the most discovered meteorite landings?
+
+Importance of this question:
+
+- Scientific: This information helps researchers target future expeditions and understand which environments are best for finding meteorites.
+- Economic: Scientific expeditions are expensive, and knowing which regions will yield the most findings for scientific progress allows organizations such as governments and the Meteoritical Society to know where to focus their efforts for the best return on investment.
+- Environmental Patterns in meteorite discoveries give us many clues about erosion, climate, and surface movement in the earth.
+
+How this information ties in to the data set:
+
+- reclat and reclong are coordinates (latitude and longitude) that can be used to create a map visualization.
+- Thousands of meteorites are tracked and identified in this dataset using their name and ID’s.
+
 <img width="1433" height="666" alt="Image" src="https://github.com/user-attachments/assets/380100fc-6e11-4978-944b-c35b5872c72d" />
 <img width="1402" height="660" alt="Image" src="https://github.com/user-attachments/assets/2a0834b6-2fb8-4fda-9f94-c2110f283d1e" />
 <img width="1353" height="666" alt="Image" src="https://github.com/user-attachments/assets/83c2c56d-7920-4437-9783-4b5f0f8876bf" />
@@ -25,6 +37,19 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 - Antarctica is especially significant because of the East Antarctic Icesheet. When the icesheet moves further into the surface and comes into contact with mountains, it pushes old deep ice to the surface and exposes centuries-old meteorites.
 
 ## Question #2: How has the number of documented meteorite landings changed over time, and how will this number likely change in the future?
+
+Importance of this question:
+
+- Science & history: The results reflect major advances in planetary science and the launch of research programs. This historical data shows how the ways in which we understand the world around us have evolved over time.
+- Economic: Understanding discovery trends helps firms understand how money is being used and justify further spending on scientific research.
+- Future planning: Predicting future meteorite discoveries helps scientific organizations anticipate laboratory processing needs, storage space, research personnel, and even museum collection capacity.
+
+How this information ties in to the data set:
+
+- Each meteorite landing includes the year it was discovered as an attribute.
+- Tableau forecasting models allow us to create an accurate forecast for years beyond the dataset.
+- This data allows us to analyze temporal trends across time for 45,000 discoveries.
+
 <img width="1435" height="711" alt="Image" src="https://github.com/user-attachments/assets/9f627034-d1da-4850-a321-92acb074c37a" />
 <img width="1232" height="708" alt="Image" src="https://github.com/user-attachments/assets/0919955b-a92d-417a-8272-0603ea85b140" />
 <img width="1435" height="707" alt="Image" src="https://github.com/user-attachments/assets/765c843b-cfca-4200-a110-1eb5e57cb3fa" />
@@ -34,6 +59,18 @@ Some of the data that the set includes is the name, the class, the mass, the yea
 - The drop after the early 2010s is not a real decline in meteorite falls; it reflects delays in laboratory classification, publication lag in the Meteoritical Bulletin, and reduced field expeditions in key collection regions like Antarctica.
 
 ## Question #3: Which classes of meteorites are the most common? Which types of meteorites are the heaviest? Are heavier or lighter meteorites more common?
+
+Importance of this question:
+
+- Scientific: Comparing frequency and mass helps us understand solar system evolution and the origin of different classes of meteorites. Large iron meteorites land in one piece and are easier to identify, whereas more fragile types break up upon their fall and leave many small pieces. Comparing mass and frequency helps to reduce survival bias when comparing the rarity of meteorites.
+- Cultural: Meteorites are used in museums and STEM programs.  Large iron meteorites, though rare, tend to be the ones displayed in public spaces, shaping public perception of what meteorites look like.
+
+How this question ties in to the data set:
+
+- Each meteorite has an attribute called “mass (g)” which stores its size.
+- Each meteorite has an attribute called “recclass” which is the class of the meteorite.
+- This data can be used to create tables in Tableau to compare class abundance and mass.
+
 The visualizations created for this data are included in the following links because the number of different classes creates too many rows to be able to include these visualizations as screenshots.
 
 [Table: Class Frequency](https://drive.google.com/file/d/1FDUKMRemxaiy9LFgGT54xDAULE8KMA4l/view?usp=sharing)
