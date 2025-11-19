@@ -19,7 +19,7 @@ Importance of this question:
 
 - Scientific: This information helps researchers target future expeditions and understand which environments are best for finding meteorites.
 - Economic: Scientific expeditions are expensive, and knowing which regions will yield the most findings for scientific progress allows organizations such as governments and the Meteoritical Society to know where to focus their efforts for the best return on investment.
-- Environmental Patterns in meteorite discoveries give us many clues about erosion, climate, and surface movement in the earth.
+- Environmental: Patterns in meteorite discoveries give us many clues about erosion, climate, and surface movement in the earth.
 
 How this information ties in to the data set:
 
